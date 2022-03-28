@@ -1,26 +1,12 @@
-#EXTINF:-1,BTV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1746
-#EXTINF:-1,BTV CTG
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1635
-#EXTINF:-1,BTV WORLD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1302
-#EXTINF:-1, ATN BANGLA
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1304
-#EXTINF:-1,ATN MUSIC
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1341
-#EXTINF:-1, CHANNEL I
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1295
-#EXTINF:-1,EKUSHEY TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1315
-#EXTINF:-1,NEXUS TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2820
-#EXTINF:-1,N TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1296
-#EXTINF:-1,R TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1297
-#EXTINF:-1,BOUSHAKHI TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1305
-#EXTINF:-1,BOISHAKHAI PLUS
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1340
-#EXTINF:-1, BANGLAVISION
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1299
+
+
+
+#EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Jamuna TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample ok.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Channel 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",News 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Somoy News
+https://last.gcdn.co/IND418/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
