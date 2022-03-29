@@ -748,53 +748,7 @@ http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
 #EXTINF:-1,BEIN EXTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true%3Ffreeiptv-net.ts&profilesFromStream=true
 
-#EXTINF:-1,STAR PLUS UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1485
-#EXTINF:-1,STAR PLUS HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2354
-#EXTINF:-1,STAR GOLD SELECT HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2532
-#EXTINF:-1,STAR GOLD  HD 
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1556
-#EXTINF:-1,STAR BHARAT HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1566
-#EXTINF:-1,UTSAV GOLD HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2353
-#EXTINF:-1,ZEE ACTION
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1809
-#EXTINF:-1,ZEE CINEMA
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2656
-#EXTINF:-1,ZEE CINEMA HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1557
-#EXTINF:-1,ZEE TV UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1365
-#EXTINF:-1,ZEE BOLLYWOOD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2811
-#EXTINF:-1,ZEE ANMOL
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3110
-#EXTINF:-1,COLORS CINEPLEX HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2849
-#EXTINF:-1,AAPKA COLORS HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2768
-#EXTINF:-1,COLORS UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1394
-#EXTINF:-1,&TV UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2236
-#EXTINF:-1,SONY TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1391
-#EXTINF:-1,SONY TV HD 
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2311
-#EXTINF:-1,SONY SAB UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1385
-#EXTINF:-1,SONY MAX HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1794
-#EXTINF:-1,SONY MAX UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2313
-#EXTINF:-1,SONY MAX 2
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3186
-#EXTINF:-1,& XPLOR HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2769
-#EXTINF:-1,& PICTURES HD
+
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1388
 #EXTINF:-1,MASTI  MUSIC
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1594
@@ -840,26 +794,7 @@ http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1384
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1387
 #EXTINF:-1,T SPORTS 
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1404
-#EXTINF:-1,T SPORTS HD 
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2317
-#EXTINF:-1,SONY SIX HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1529
-#EXTINF:-1,SONY TEN 1 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1528
-#EXTINF:-1,SONY TEN 2 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1548
-#EXTINF:-1,SONY TEN 3 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1549
-#EXTINF:-1,STAR SPORTS 1 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1551
-#EXTINF:-1,STAR SPORTS 2 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1552
-#EXTINF:-1,STAR SPORTS SELECT 1 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1526
-#EXTINF:-1,STAR SPORTS SELECT 2 UHD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1550
-#EXTINF:-1,TEN SPORTS HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1553
+
 #EXTINF:-1,PTV SPORTS
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1400
 #EXTINF:-1,WILLOW CRICKET HD
