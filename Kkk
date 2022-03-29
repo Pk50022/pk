@@ -3,45 +3,32 @@
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K", Fashion Mid-Night
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SET MAX HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Max
 http://live.flixhub.net/hls/sonymax.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND Picture HD
 http://live.flixhub.net/hls/andpictures.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour CinePlex HD
 http://live.flixhub.net/hls/colorscineplex.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
 http://live.flixhub.net/hls/stargold.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold 2
 http://live.flixhub.net/hls/stargold2hd.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
 http://live.flixhub.net/hls/utvaction.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
 http://live.flixhub.net/hls/starmovies.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies Now HD
 http://live.flixhub.net/hls/movies-now.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX HD
 http://live.flixhub.net/hls/sonypixhd.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
 http://live.flixhub.net/hls/mn+.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",BBC Earth Hindi
 http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Travel XP Bangla
@@ -58,14 +45,10 @@ http://live.flixhub.net/hls/discovery.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Discovery Scince Hindi
 http://live.flixhub.net/hls/dis-science.m3u8
-
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour Bangla Cinema
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jolsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha HD
@@ -172,8 +155,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Gaan Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-
-
 #EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Sony Aath
@@ -186,14 +167,12 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Colors Bangla
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
-
 #EXTINF:-1,TAMIL VISION
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3188
 #EXTINF:-1,NETGEO PEOPLE
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3175
 #EXTINF:-1,B4U BHOJPURI 
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3107
-
 #EXTINF:-1,TIME TELEVISION
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2813
 #EXTINF:-1,E 24
@@ -202,12 +181,10 @@ http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2349
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2352
 #EXTINF:-1,A SPORTS
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2496
-
 #EXTINF:-1,ONE YUVA MOVIE
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2816
 #EXTINF:-1,ARY DIGITAL
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2756
-
 #EXTINF:-1,HUM MASALA
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2759
 #EXTINF:-1,NAT GEO WILD
