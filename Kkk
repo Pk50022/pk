@@ -68,32 +68,22 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha HD
 http://live.flixhub.net/hls/starjalsha.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla HD
 http://live.flixhub.net/hls/zeebanglahd.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla HD
 http://live.flixhub.net/hls/sunbangla.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colours Bangla HD
 http://live.flixhub.net/hls/colorsbangla.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
 http://live.flixhub.net/hls/dis-kid.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick
 http://live.flixhub.net/hls/nick.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
 http://live.flixhub.net/hls/cn.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",PoGo
 http://live.flixhub.net/hls/pogo.m3u8
-
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
 http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
@@ -108,7 +98,6 @@ http://live.flixhub.net/hls/select2.m3u8
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
 http://live.flixhub.net/hls/starsports2.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",MNX HD
@@ -200,14 +189,11 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 
 #EXTINF:-1,TAMIL VISION
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3188
-#EXTINF:-1,COLORS INFINITY
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3176
 #EXTINF:-1,NETGEO PEOPLE
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3175
 #EXTINF:-1,B4U BHOJPURI 
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3107
-#EXTINF:-1,True Chinese more
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3098
+
 #EXTINF:-1,TIME TELEVISION
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2813
 #EXTINF:-1,E 24
@@ -944,31 +930,5 @@ http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2766
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1434
 #EXTINF:-1,AXN HD
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1806
-#EXTINF:-1,CINEMUNDO MOVIE
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1769
-#EXTINF:-1, MBC ACTION
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1435
-#EXTINF:-1,MONSTE MOVIE TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1436
-#EXTINF:-1,WOW TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1437
-#EXTINF:-1,MOVIES PHERE
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1438
-#EXTINF:-1,MOVIE MIX
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1439
-#EXTINF:-1,WARNER TV HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1440
 #EXTINF:-1,FOX CRIME
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1442
-#EXTINF:-1,MOVIE TV 1
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1445
-#EXTINF:-1,GRAVITAS MOVIES 
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1446
-#EXTINF:-1,MBC MAX
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1452
-#EXTINF:-1,XUMO TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1453
-#EXTINF:-1,PTV HOME TV
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1456
-#EXTINF:-1,THRILL MOVIES
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2911
