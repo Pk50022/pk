@@ -1,5 +1,23 @@
-#EXTINF:-1, Nagorik tv
-http://tv.ebox.live:8081/thunderbd/59/l_2663089_810453_133.ts?nimblesessionid=21211444&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NDA6MDQgQU0maGFzaF92YWx1ZT0rM0VWaFA0VXc5R2VyNmN0MWo3TWxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,english
+http://tv.ebox.live:8081/thunderbd/9/chunks.m3u8?nimblesessionid=21211576&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NDU6NDIgQU0maGFzaF92YWx1ZT01V3BGaGFlNkx0ZlM1TENaQzVTc3VRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,& tv
+http://tv.ebox.live:8081/thunderbd/74/chunks.m3u8?nimblesessionid=21211808&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTE6MTMgQU0maGFzaF92YWx1ZT1RVVN1QjJQZ1dYOUhhVVh1TkdYRjlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ekttor
+http://tv.ebox.live:8081/thunderbd/11/chunks.m3u8?nimblesessionid=21211884&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTM6MjEgQU0maGFzaF92YWx1ZT12clR0cnNjTHlLem94WXdNRWtyT09RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,satv
+http://tv.ebox.live:8081/thunderbd/15/chunks.m3u8?nimblesessionid=21211957&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTU6MTcgQU0maGFzaF92YWx1ZT10ZXc2aGVOOEtSM1oxcnluZmhwRnZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,nagirik
+http://tv.ebox.live:8081/thunderbd/59/chunks.m3u8?nimblesessionid=21212001&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTc6MzYgQU0maGFzaF92YWx1ZT14eE9ZSHhmRThscHFwZXF3TjN1bEFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,MTV
+http://tv.ebox.live:8081/thunderbd/46/chunks.m3u8?nimblesessionid=21212031&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTg6MzQgQU0maGFzaF92YWx1ZT0yam1ESmhtM2hOUU9na1EyQkpYOVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,sony att
+http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=21212066&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTk6NTIgQU0maGFzaF92YWx1ZT1WZlZUenYxUzRpNTU5NE03djdXWENnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,starplus
+http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=21212137&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDE6MjEgQU0maGFzaF92YWx1ZT1zNlhSYWFwMmhZS2o0RFkzVVA2WWJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,ptv hd
+http://tv.ebox.live:8081/thunderbd/73/chunks.m3u8?nimblesessionid=21212170&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDI6MTEgQU0maGFzaF92YWx1ZT1uYzZVMmhsYUtWU1VnMFpobzBLbHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,T sports
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=21212211&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDM6MDUgQU0maGFzaF92YWx1ZT1YVEtyRzBScE1JR1BaaUNZQ1dQQXVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
