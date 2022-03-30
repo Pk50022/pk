@@ -1,4 +1,5 @@
-
+#EXTINF:-1, Nagorik tv
+http://tv.ebox.live:8081/thunderbd/59/l_2663089_810453_133.ts?nimblesessionid=21211444&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NDA6MDQgQU0maGFzaF92YWx1ZT0rM0VWaFA0VXc5R2VyNmN0MWo3TWxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
