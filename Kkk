@@ -130,31 +130,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Gaan Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Star Jalsha
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Sony Aath
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Jalsha Movies HD
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Zee Bangla
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Zee Bangla Cinema
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
-#EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Colors Bangla
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
 
 
-#EXTINF:-1,ARY DIGITAL
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2756
-#EXTINF:-1,HUM MASALA
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2759
-#EXTINF:-1,NAT GEO WILD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2763
-#EXTINF:-1,GAZI TV
-http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8
-#EXTINF:-1,T SPORT
-http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8
-#EXTINF:-1,MTV+
+
 
 #EXTINF:-1,LOVE NATURE
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2501
@@ -357,10 +335,7 @@ https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qW9qTc1/SION
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1468
-#EXTINF:-1,1MUS.COM
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1469
-#EXTINF:0 tvg-logo=""group-title="English Moviez",X-TV
-https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="exit" group-title="English Moviez",Lotus TV
 http://103.153.39.36:9981/stream/channelid/280462642?profile=pass
 
@@ -388,10 +363,9 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 http://14.199.164.20:4001/play/a0n3/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="Hindi Moviez",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8  
-#EXTINF:-1 tvg-logo="ext" group-title="English নিউজ Tv",TRT World News
+#EXTINF:-1 ,TRT World News
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1,KANTIPUR HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3016
+
 
 💋💋💋💋FASHION GROUP💋💋💋💋
 
@@ -441,19 +415,3 @@ http://50.7.34.155:2201/BR/HBO_Signature_HD-br/index.m3u8?token=fwBlCndpe3MTCXpl
 #EXTINF:-1,AE HD
 http://50.7.34.155:2201/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-#EXTINF:-1,SPORT HD
-http://50.7.34.155:2201/BR/Sportv_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,AXN
-http://50.7.34.155:2201/BR/axnhd-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,select2
-http://103.170.140.8/hls/select2.m3u8
-#EXTINF:-1,stersports1hd
-http://103.166.253.222:80/hls/stersports1hd.m3u8
-#EXTINF:-1,stersports1hd
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/H7HdYoqsGDKASoNPZ4rVBXF8Jr0KpR3d3nzlBkknjYg-Ci3zNWCQV-U5qAyejpWEXJA4tuZcO0Xi06_bLq8i1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live@rk
-#EXTINF:-1,sony six
-http://103.166.253.222/hls/sonysix.m3u8
-#EXTINF:-1,sony six
-http://live.flixhub.net/hls/sonysix.m3u8
-#EXTINF:-1,sport select1
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
