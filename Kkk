@@ -142,22 +142,8 @@ http://103.109.56.116/live/skyfeed1004/index.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Indian Bangla",Colors Bangla
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
-#EXTINF:-1,TAMIL VISION
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3188
-#EXTINF:-1,NETGEO PEOPLE
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3175
-#EXTINF:-1,B4U BHOJPURI 
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/3107
-#EXTINF:-1,TIME TELEVISION
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2813
-#EXTINF:-1,E 24
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2349
-#EXTINF:-1,AKASH  AATH
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2352
-#EXTINF:-1,A SPORTS
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2496
-#EXTINF:-1,ONE YUVA MOVIE
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2816
+
+
 #EXTINF:-1,ARY DIGITAL
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2756
 #EXTINF:-1,HUM MASALA
@@ -213,8 +199,7 @@ http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/1580
 
 
 
-#EXTINF:-1,FOX LIFE
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2957
+
 #EXTINF:-1,COLORS BANGLA HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
