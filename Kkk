@@ -1,3 +1,20 @@
+#EXTINF:-1,Discovery-Science-HD
+http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Animal-Planet-HD
+http://zinachannels.zinamedia.net/ar-s/Animal-Planet-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery-HD
+http://zinachannels.zinamedia.net:80/ar-s/Discovery-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Discovary-ID
+http://zinachannels.zinamedia.net:80/ar-s/Discovary-ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1,omcultural
+http://partwo.cdn.mangomolo.com:80/omcultural/smil:omcultural.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+#EXTINF:-1,Nat-Geo-Wild-Hd
+http://zinachannels.zinamedia.net:80/ar-s/Nat-Geo-Wild-Hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,National-Geographic
+http://zinachannels.zinamedia.net:80/ar-s/National-Geographic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,english
 http://tv.ebox.live:8081/thunderbd/9/chunks.m3u8?nimblesessionid=21211576&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NDU6NDIgQU0maGFzaF92YWx1ZT01V3BGaGFlNkx0ZlM1TENaQzVTc3VRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1,& tv
