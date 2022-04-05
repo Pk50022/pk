@@ -36,56 +36,15 @@ http://free1.zinamedia.net:80/ar-s/Fox-crime-Hd/tracks-v1a1/mono.m3u8
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OSN-Yahal-1
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,english
-http://tv.ebox.live:8081/thunderbd/9/chunks.m3u8?nimblesessionid=21211576&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NDU6NDIgQU0maGFzaF92YWx1ZT01V3BGaGFlNkx0ZlM1TENaQzVTc3VRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,& tv
-http://tv.ebox.live:8081/thunderbd/74/chunks.m3u8?nimblesessionid=21211808&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTE6MTMgQU0maGFzaF92YWx1ZT1RVVN1QjJQZ1dYOUhhVVh1TkdYRjlRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,ekttor
-http://tv.ebox.live:8081/thunderbd/11/chunks.m3u8?nimblesessionid=21211884&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTM6MjEgQU0maGFzaF92YWx1ZT12clR0cnNjTHlLem94WXdNRWtyT09RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,satv
-http://tv.ebox.live:8081/thunderbd/15/chunks.m3u8?nimblesessionid=21211957&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTU6MTcgQU0maGFzaF92YWx1ZT10ZXc2aGVOOEtSM1oxcnluZmhwRnZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,nagirik
-http://tv.ebox.live:8081/thunderbd/59/chunks.m3u8?nimblesessionid=21212001&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTc6MzYgQU0maGFzaF92YWx1ZT14eE9ZSHhmRThscHFwZXF3TjN1bEFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,MTV
-http://tv.ebox.live:8081/thunderbd/46/chunks.m3u8?nimblesessionid=21212031&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTg6MzQgQU0maGFzaF92YWx1ZT0yam1ESmhtM2hOUU9na1EyQkpYOVZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,sony att
-http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=21212066&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDU6NTk6NTIgQU0maGFzaF92YWx1ZT1WZlZUenYxUzRpNTU5NE03djdXWENnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,starplus
-http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=21212137&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDE6MjEgQU0maGFzaF92YWx1ZT1zNlhSYWFwMmhZS2o0RFkzVVA2WWJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,ptv hd
-http://tv.ebox.live:8081/thunderbd/73/chunks.m3u8?nimblesessionid=21212170&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDI6MTEgQU0maGFzaF92YWx1ZT1uYzZVMmhsYUtWU1VnMFpobzBLbHlnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF:-1,T sports
-http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=21212211&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDY6MDM6MDUgQU0maGFzaF92YWx1ZT1YVEtyRzBScE1JR1BaaUNZQ1dQQXVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BLoZbXL"group-title="SUMON 4K", Fashion Mid-Night
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SET MAX HD
-http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Max
-http://live.flixhub.net/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",AND Picture HD
-http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Cinema HD
-http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour CinePlex HD
-http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold HD
-http://live.flixhub.net/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Gold 2
-http://live.flixhub.net/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",UTV Action
-http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Movies HD
-http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Movies Now HD
-http://live.flixhub.net/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony PIX HD
-http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MN+ HD
-http://live.flixhub.net/hls/mn+.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",BBC Earth Hindi
 http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Travel XP Bangla
@@ -102,48 +61,7 @@ http://live.flixhub.net/hls/discovery.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SUMON 4K",Discovery Scince Hindi
 http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colour Bangla Cinema
-http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Jolsha Movies
-http://live.flixhub.net/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla Cinema
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Jalsha HD
-http://live.flixhub.net/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",ZEE Bangla HD
-http://live.flixhub.net/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",SUN Bangla HD
-http://live.flixhub.net/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Colours Bangla HD
-http://live.flixhub.net/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Discovery Kids
-http://live.flixhub.net/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Nick
-http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Cartoon Network
-http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",PoGo
-http://live.flixhub.net/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
-http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
-http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
-http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
-http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://live.flixhub.net/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
-http://live.flixhub.net/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",MNX HD
-http://live.flixhub.net/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Enter 10 Bangla
-http://live.flixhub.net/hls/enterr10.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample ok.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Channel 24
@@ -251,13 +169,7 @@ http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8
 #EXTINF:-1,T SPORT
 http://77.247.109.116/live/abr_b-1/live/b-1/chunks.m3u8
 #EXTINF:-1,MTV+
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,1 MUSIC CHANNEL (HUNGARY)
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2898
-#EXTINF:-1,VIVA (RUSSIA (24/7)
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2900
-#EXTINF:-1,VH1 HD
-http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2903
+
 #EXTINF:-1,LOVE NATURE
 http://tv.mototvlive.net:25461/sanjoy11/sanjoy99/2501
 #EXTINF:-1,FX
