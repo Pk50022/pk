@@ -36,7 +36,18 @@ http://free1.zinamedia.net:80/ar-s/Fox-crime-Hd/tracks-v1a1/mono.m3u8
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OSN-Yahal-1
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,Bein-Series-2-HD
+http://zinachannels.zinamedia.net:80/ar-s/Bein-Series-2-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein-Serise1-HD
+http://zinachannels.zinamedia.net:80/ar-s/Bein-Serise1-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,osn-yahala-hd
+http://zinachannels.zinamedia.net:80/ar-s/osn-yahala-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,OSN-Yahal-1
+http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,OSN-Musalsalat-2
+http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,OSN-Musalsalat
+http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
