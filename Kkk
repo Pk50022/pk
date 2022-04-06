@@ -48,7 +48,30 @@ http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OSN-Musalsalat
 http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AlYawm
+http://zinachannels.zinamedia.net:80/ar-s/AlYawm/tracks-v1a1/mono.m3u8
+#EXTINF:-1,mbc-2
+http://a.jsrdn.com:80/broadcast/d37066a396/+0000/mid/c.m3u8
+#EXTINF:-1,History
+http://zinachannels.zinamedia.net:80/ar-s/History/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Discovery-HD
+http://zinachannels.zinamedia.net:80/ar-s/Discovery-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Disney-Channels
+http://zinachannels.zinamedia.net:80/ar-s/Disney-Channels/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nickelodeon
+http://zinachannels.zinamedia.net:80/ar-s/BN-Baby/tracks-v1a1/mono.m3u8
 
+http://zinachannels.zinamedia.net:80/ar-s/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1,mbc-2
+http://zinachannels.zinamedia.net:80/ar-s/mbc-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MBC-Variety
+http://zinachannels.zinamedia.net:80/ar-s/MBC-Variety/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MBC mbc-Action
+http://zinachannels.zinamedia.net:80/ar-s/mbc-Action/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MBC mbc-Max
+http://zinachannels.zinamedia.net:80/ar-s/mbc-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1,my-onc-9
+http://localchannels.zinamedia.net:80/ar-s/my-onc-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
