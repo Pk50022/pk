@@ -15,7 +15,18 @@ http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/tracks-v1a1/mono.m3u
 
 #EXTINF:-1,Animal-Planet-HD
 http://zinachannels.zinamedia.net/ar-s/Animal-Planet-HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1,Osn-Mezze
+http://zinachannels.zinamedia.net:80/ar-s/Osn-Mezze/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fine-living
+http://zinachannels.zinamedia.net:80/ar-s/Fine-living/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC
+http://zinachannels.zinamedia.net:80/ar-s/TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fatafeat-HD
+http://zinachannels.zinamedia.net:80/ar-s/Fatafeat-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Online-Food-Network
+http://zinachannels.zinamedia.net:80/ar-s/Online-Food-Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox-live-HD
+http://zinachannels.zinamedia.net:80/ar-s/Fox-live-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery-HD
 http://zinachannels.zinamedia.net:80/ar-s/Discovery-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovary-ID
