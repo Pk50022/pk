@@ -1,3 +1,20 @@
+#EXTINF:-1,zee-bangla-cinema
+http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1,colore-bangla-cinema
+http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,jalshamovies
+http://103.55.144.46:80/hls/jalshamovies.m3u8
+#EXTINF:-1,colorsbangla
+http://103.55.144.46:80/hls/colorsbangla.m3u8
+#EXTINF:-1,zeebanglahd
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
+#EXTINF:-1,starjalsha
+http://103.55.144.46:80/hls/starjalsha.m3u8
+#EXTINF:-1,Sony_Aath
+http://103.55.144.46:80/hls/Sony_Aath.m3u8
+http://103.55.144.46:80/hls/sunbangla.m3u8
+#EXTINF:-1,travelxp
+http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1,JHANJAR MUSIC
