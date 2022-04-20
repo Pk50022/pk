@@ -1,4 +1,5 @@
-
+#EXTINF:-1,T SPORT
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1,STARBHARATHD
 http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:-1,STARJALSHA
@@ -651,10 +652,8 @@ http://zinachannels.zinamedia.net:80/ar-s/Star-World/tracks-v1a1/mono.m3u8
 http://zinachannels.zinamedia.net:80/ar-s/Beingourmet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SSC1
 http://localchannels.zinamedia.net:80/ar-s/SSC1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,outside-tv
 https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
-
 #EXTINF:-1,food
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,fdgffg
