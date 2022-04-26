@@ -662,3 +662,7 @@ http://46.249.95.140:8081/hls/data.m3u8
 https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
 #EXTINF:-1,viva-russia
 https://mn-nl-glb.mncdn.com:443/dlive/transcode-84-72/viva-russia/1649858749/src/live.m3u8
+#EXTINF:-1,1
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1,2
+http://208.86.19.13:81/702.stream/index.m3u8
