@@ -666,3 +666,7 @@ https://mn-nl-glb.mncdn.com:443/dlive/transcode-84-72/viva-russia/1649858749/src
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1,2
 http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1,3
+http://208.86.19.13:81/629.stream/index.m3u8
+#EXTINF:-1,4
+http://208.86.19.13:81/620.stream/index.m3u8
