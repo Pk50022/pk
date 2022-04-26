@@ -670,3 +670,10 @@ http://208.86.19.13:81/702.stream/index.m3u8
 http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:-1,4
 http://208.86.19.13:81/620.stream/index.m3u8
+#EXTINF:-1,5
+http://208.86.19.13:81/601.stream/index.m3u8
+#EXTINF:-1,6
+http://208.86.19.13:81/693.stream/index.m3u8
+
+#EXTINF:-1,7
+http://208.86.19.13:81/652.stream/index.m3u8
