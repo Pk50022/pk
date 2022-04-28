@@ -140,40 +140,7 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTVBEATSHD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony_aath
-http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=800&e=junk.m3u8
-#EXTINF:-1,Cartoon_Network_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1,Cartoon_Network_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
-#EXTINF:-1,Jio_Cricket_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
-#EXTINF:-1,Colors_Cineplex
-http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex&q=800&e=.m3u8
-#EXTINF:-1,CN_HD_English
-http://jo123.biz/jweb/m3u8.php?c=Six_HD&q=1200&e=.m3u8
-#EXTINF:-1,CN_HD_English
-http://jo123.biz/jweb/m3u8.php?c=CN_HD_English&q=1200&e=.m3u8
-#EXTINF:-1,sonic_Hindi
-http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&q=800&e=.m3u8
-#EXTINF:-1,Nick_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=400&e=.m3u8
-#EXTINF:-1,Cartoon_Network_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-#EXTINF:-1,Nick_HD_Plus
-http://jo123.biz/jweb/m3u8.php?c=Nick_HD_Plus&q=1200&e=.m3u8
-#EXTINF:-1,Pogo_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=1200&e=.m3u8
-#EXTINF:-1,Jio_Cricket_Hindi
-http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_Hindi&q=1200&e=.m3u8
-#EXTINF:-1,Ten2_HD
-http://jo123.biz/jweb/m3u8.php?c=Ten2_HD&q=1200&e=junk.m3u8
 
-#EXTINF:-1,Rishtey_Cineplex
-http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=600&e=.m3u8
-
-#EXTINF:-1,Jio_Cricket_3_HD
-http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_3_HD&q=600&e=.m3u8
 #EXTINF:-1,SUN BANGLA
 http://103.55.144.46:80/hls/sunbangla.m3u8
 #EXTINF:-1,zee-bangla-cinema
@@ -258,94 +225,10 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1,MNF
-http://210.210.155.35/session/55528460-d1c8-11eb-8209-c81f66f89318/uq2663/h/h90/S4/mnf.m3u8
+
 #EXTINF:-1,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
-#EXTINF:-1,Discovery-Science-HD
-http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Animal-Planet-HD
-http://zinachannels.zinamedia.net/ar-s/Animal-Planet-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Osn-Mezze
-http://zinachannels.zinamedia.net:80/ar-s/Osn-Mezze/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fine-living
-http://zinachannels.zinamedia.net:80/ar-s/Fine-living/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TLC
-http://zinachannels.zinamedia.net:80/ar-s/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fatafeat-HD
-http://zinachannels.zinamedia.net:80/ar-s/Fatafeat-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Online-Food-Network
-http://zinachannels.zinamedia.net:80/ar-s/Online-Food-Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox-live-HD
-http://zinachannels.zinamedia.net:80/ar-s/Fox-live-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery-HD
-http://zinachannels.zinamedia.net:80/ar-s/Discovery-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovary-ID
-http://zinachannels.zinamedia.net:80/ar-s/Discovary-ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1,omcultural
-http://partwo.cdn.mangomolo.com:80/omcultural/smil:omcultural.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
-#EXTINF:-1,Nat-Geo-Wild-Hd
-http://zinachannels.zinamedia.net:80/ar-s/Nat-Geo-Wild-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,National-Geographic
-http://zinachannels.zinamedia.net:80/ar-s/National-Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein-Drama
-http://zinachannels.zinamedia.net:80/ar-s/Bein-Drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Dizi-HD
-http://zinachannels.zinamedia.net:80/ar-s/Dizi-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox-Rewayat
-http://zinachannels.zinamedia.net:80/ar-s/Fox-Rewayat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN
-http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN2
-http://localchannels.zinamedia.net:80/ar-s/pEmPdyrGGz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-SERIES-FIRST
-http://zinachannels.zinamedia.net:80/ar-s/OSN-SERIES-FIRST/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-SERIES
-http://zinachannels.zinamedia.net:80/ar-s/OSN-SERIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1,osn-series-comedy
-http://zinachannels.zinamedia.net:80/ar-s/osn-series-comedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox-crime-Hd
-http://free1.zinamedia.net:80/ar-s/Fox-crime-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-Yahal-1
-http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-Yahal-1
-http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein-Series-2-HD
-http://zinachannels.zinamedia.net:80/ar-s/Bein-Series-2-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein-Serise1-HD
-http://zinachannels.zinamedia.net:80/ar-s/Bein-Serise1-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,osn-yahala-hd
-http://zinachannels.zinamedia.net:80/ar-s/osn-yahala-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-Yahal-1
-http://zinachannels.zinamedia.net:80/ar-s/OSN-Yahal-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-Musalsalat-2
-http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OSN-Musalsalat
-http://zinachannels.zinamedia.net:80/ar-s/OSN-Musalsalat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AlYawm
-http://zinachannels.zinamedia.net:80/ar-s/AlYawm/tracks-v1a1/mono.m3u8
-#EXTINF:-1,mbc-2
-http://a.jsrdn.com:80/broadcast/d37066a396/+0000/mid/c.m3u8
-#EXTINF:-1,History
-http://zinachannels.zinamedia.net:80/ar-s/History/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery-HD
-http://zinachannels.zinamedia.net:80/ar-s/Discovery-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Disney-Channels
-http://zinachannels.zinamedia.net:80/ar-s/Disney-Channels/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BN BABY
-http://zinachannels.zinamedia.net:80/ar-s/BN-Baby/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nickelodeon
-http://zinachannels.zinamedia.net:80/ar-s/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1,mbc-2
-http://zinachannels.zinamedia.net:80/ar-s/mbc-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC-Variety
-http://zinachannels.zinamedia.net:80/ar-s/MBC-Variety/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC mbc-Action
-http://zinachannels.zinamedia.net:80/ar-s/mbc-Action/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC mbc-Max
-http://zinachannels.zinamedia.net:80/ar-s/mbc-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MBC BOLLOYWOOD
-http://localchannels.zinamedia.net:80/ar-s/my-onc-9/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
@@ -592,39 +475,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV PG-16
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-👙👙👙👙👙 HBO GROUP👙👙👙👙👙👙
 
-#EXTINF:-1,HBO_2_HD
-http://50.7.34.155:2201/BR/HBO_2_HD👙👙br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Viva_HD-br
-http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,TLC_HD-br
-http://50.7.34.155:2200/BR/TLC_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,MTV_HD-br
-http://50.7.34.155:2200/BR/MTV_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Nick_Jr_HD-br
-http://50.7.34.155:2200/BR/Nick_Jr_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Nickelodeon_HD-br
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Cartoon_HD-br
-http://50.7.34.155:2200/BR/Cartoon_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Warner_Channel_HD-br
-http://50.7.34.155:2200/BR/Warner_Channel_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,FX_HD-br
-http://50.7.34.155:2201/BR/FX_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,Space_HD-br
-http://50.7.34.155:2200/BR/Space_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,HBO_POP_HD-br
-http://50.7.34.155:2201/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,HBO_HD-br
-http://50.7.34.155:2201/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,HBO_Family_HD-br
-http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,HBO PLUS HD
-http://50.7.34.155:2201/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,HBO SIGNATURE HD
-http://50.7.34.155:2201/BR/HBO_Signature_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1,AE HD
 http://50.7.34.155:2201/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1,MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
@@ -634,24 +485,7 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,MHONE MUSIC
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1,Osn-Mezze
-http://zinachannels.zinamedia.net:80/ar-s/Osn-Mezze/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fine-living
-http://zinachannels.zinamedia.net:80/ar-s/Fine-living/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TLC
-http://zinachannels.zinamedia.net:80/ar-s/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fatafeat-HD
-http://zinachannels.zinamedia.net:80/ar-s/Fatafeat-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Online-Food-Network
-http://zinachannels.zinamedia.net:80/ar-s/Online-Food-Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox-live-HD
-http://zinachannels.zinamedia.net:80/ar-s/Fox-live-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star-World
-http://zinachannels.zinamedia.net:80/ar-s/Star-World/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Beingourmet
-http://zinachannels.zinamedia.net:80/ar-s/Beingourmet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SSC1
-http://localchannels.zinamedia.net:80/ar-s/SSC1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,outside-tv
 https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
 #EXTINF:-1,food
@@ -660,8 +494,7 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/i
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1,xxx
 https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
-#EXTINF:-1,viva-russia
-https://mn-nl-glb.mncdn.com:443/dlive/transcode-84-72/viva-russia/1649858749/src/live.m3u8
+
 #EXTINF:-1,1
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1,2
@@ -699,9 +532,3 @@ http://208.86.19.13:81/713.stream/index.m3u8
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1,18
 http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1,19
-http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:-1,20
-http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:-1,21
-http://208.86.19.13:81/707.stream/index.m3u8
