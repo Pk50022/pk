@@ -557,3 +557,83 @@ http://103.132.16.98:8080/starsports1hd/mpegts
 
 #EXTINF:-1,KTV HD TAMIL
 http://103.132.16.98:8080/ktvhd/mpegts 
+#EXTINF:-1,Star sports 1
+http://103.132.16.98:8080/starsports1hd/mpegts
+#EXTINF:-1,Star sports 1
+http://103.132.16.98:8080/starsports2hd/mpegts
+#EXTINF:-1,Star sports select 1
+http://103.132.16.98:8080/starsportsselect1hd/mpegts
+#EXTINF:-1,SUN TV HD TAMIL
+
+http://103.132.16.98:8080/suntvhd/mpegts 
+#EXTINF:-1,KTV HD TAMIL
+
+ http://103.132.16.98:8080/ktvhd/mpegts 
+#EXTINF:-1,sunmusic HD TAMIL
+
+ http://103.132.16.98:8080/sunmusichd/mpegts 
+#EXTINF:-1,JayaTV HD TAMIL
+
+ http://103.132.16.98:8080/jayatvhd/mpegts 
+#EXTINF:-1,ASIANET MALAYALAM
+
+ http://103.132.16.98:8080/asianethd/mpegts 
+
+#EXTINF:-1,STAR MAA HD TELUGU
+
+ http://103.132.16.98:8080/starmaahd/mpegts 
+
+#EXTINF:-1,ETVHD IN TELUGU
+
+ http://103.132.16.98:8080/etvhd/mpegts.
+#EXTINF:-1,Gemini TV TELUGU
+
+
+http://103.132.16.98:8080/geminihd/mpegts
+
+#EXTINF:-1,Surya TV Malayalam
+
+http://103.132.16.98:8080/suryatvhd/mpegts
+
+#EXTINF:-1,Udaya tv
+
+http://103.132.16.98:8080/udayatvhd/mpegts
+
+#EXTINF:-1,Star plus hd
+
+
+http://103.132.16.98:8080/starplushd/mpegts
+
+
+#EXTINF:-1,Star gold hd
+
+
+http://103.132.16.98:8080/stargoldhd/mpegts
+
+
+#EXTINF:-1,Zee TV 
+
+
+http://103.132.16.98:8080/zeetvhd/mpegts
+
+#EXTINF:-1,Colors hd
+
+http://103.132.16.98:8080/colorshd/mpegts
+
+
+#EXTINF:-1,Star movies hd
+
+http://103.132.16.98:8080/starmovieshd/mpegts
+
+#EXTINF:-1,Star world
+
+
+http://103.132.16.98:8080/starworldhd/mpegts
+#EXTINF:-1,Star Vijay hd Tamil
+
+
+http://103.132.16.98:8080/starvijayhd/mpegts
+
+#EXTINF:-1,star movies select hd
+
+http://103.132.16.98:8080/starmoviesselecthd/mpegts
