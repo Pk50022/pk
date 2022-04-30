@@ -554,3 +554,6 @@ http://42.201.253.14:4090/play/a097/index.m3u8
 http://42.201.253.14:4090/play/a093/index.m3u8
 #EXTINF:-1,1
 http://103.132.16.98:8080/starsports1hd/mpegts
+
+#EXTINF:-1,KTV HD TAMIL
+http://103.132.16.98:8080/ktvhd/mpegts 
