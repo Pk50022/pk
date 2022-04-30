@@ -532,3 +532,23 @@ http://208.86.19.13:81/713.stream/index.m3u8
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1,18
 http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1,discovery kids
+http://42.201.253.14:4090/play/a05e/index.m3u8
+#EXTINF:-1,history hd
+http://42.201.253.14:4090/play/a08z/index.m3u8
+#EXTINF:-1,nick hd
+http://42.201.253.14:4090/play/a099/index.m3u8
+#EXTINF:-1,pix hd
+http://42.201.253.14:4090/play/a090/index.m3u8
+#EXTINF:-1,skycircket
+http://42.201.253.14:4090/play/a05b/index.m3u8
+#EXTINF:-1,sonyten2 hd
+http://42.201.253.14:4090/play/a09a/index.m3u8
+#EXTINF:-1,star gold hd
+http://42.201.253.14:4090/play/a098/index.m3u8
+#EXTINF:-1,star gold select
+http://42.201.253.14:4090/play/a095/index.m3u8
+#EXTINF:-1,star sports select 2 hd
+http://42.201.253.14:4090/play/a097/index.m3u8
+#EXTINF:-1,zee cinema hd
+http://42.201.253.14:4090/play/a093/index.m3u8
