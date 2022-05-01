@@ -144,7 +144,7 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUN BANGLA
 http://103.55.144.46:80/hls/sunbangla.m3u8
 #EXTINF:-1,zee-bangla-cinema
-http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
+http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1,colore-bangla-cinema
 http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1,jalshamovies
