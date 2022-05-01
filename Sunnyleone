@@ -1,4 +1,38 @@
-#EXTM3U
+#EXTINF:-1,A&E
+http://45.4.85.137:58001/play/a05w/index.m3u8
+#EXTINF:-1,A&E HD
+http://45.4.85.137:58001/play/a00n/index.m3u8
+#EXTINF:-1,AMC
+http://45.4.85.137:58001/play/a060/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.4.85.137:58001/play/a00o/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.4.85.137:58001/play/a02w/index.m3u8
+#EXTINF:-1,AZ click HD
+http://45.4.85.137:58001/play/a06a/index.m3u8
+#EXTINF:-1,Animal Planet
+http://45.4.85.137:58001/play/a061/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://45.4.85.137:58001/play/a00k/index.m3u8
+#EXTINF:-1,Azmundo
+http://45.4.85.137:58001/play/a03k/index.m3u8
+#EXTINF:-1,BBC World
+http://45.4.85.137:58001/play/a025/index.m3u8
+#EXTINF:-1,Boomerang
+http://45.4.85.137:58001/play/a01s/index.m3u8
+#EXTINF:-1,CARTOON NT HD
+http://45.4.85.137:58001/play/a00a/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://45.4.85.137:58001/play/a03d/index.m3u8
+#EXTINF:-1,CNNE
+http://45.4.85.137:58001/play/a024/index.m3u8
+#EXTINF:-1,Canal 11 - HON
+http://45.4.85.137:58001/play/a03f/index.m3u8
+
+
+
+
+
 #EXTINF:-1,Top Channel
 http://restream.skyhd-iptv.com:25461/lokaltv007/rqyvTYmN3W/1
 #EXTINF:-1,Klan HD
