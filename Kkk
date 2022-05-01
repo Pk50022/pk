@@ -85,7 +85,6 @@ http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
 http://89.187.162.109/VASANTHTV/mono.m3u8
 #EXTINF:-1,WETV
 http://89.187.162.109/WETV/mono.m3u8
-
 #EXTINF:-1,ZEEANMOLCINEMA
 http://89.187.162.109/ZEEANMOLCINEMA/mono.m3u8
 #EXTINF:-1,ZEEANMOLCINEMA
@@ -112,11 +111,12 @@ http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1,UTVMOVIESHD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STARGOLDHD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STARGOLDUK
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1
+#EXTINF:-1,STARGOLD 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEECINEMAHD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -225,9 +225,15 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-
 #EXTINF:-1,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+#EXTINF:-1,দেশি টিভি
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1,MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
+
+#EXTINF:-1,THE CHANNEL TV
+http://208.86.19.13:81/518.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
@@ -279,7 +285,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Ekattor
-https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
+http://208.86.19.13:81/604.stream/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Nagorik
 http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/27118
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Asian TV
@@ -485,7 +491,6 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,MHONE MUSIC
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-
 #EXTINF:-1,outside-tv
 https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
 #EXTINF:-1,food
@@ -494,7 +499,6 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/i
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1,xxx
 https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
-
 #EXTINF:-1,1
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1,2
