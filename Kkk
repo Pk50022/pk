@@ -198,7 +198,10 @@ http://103.55.144.46/hls/andpictures.m3u8
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:-1,sonymax
 http://103.55.144.46:80/hls/sonymax.m3u8
-
+#EXTINF:-1,COLORS AIRTEL
+http://208.86.19.13:81/605.stream/index.m3u8
+#EXTINF:-1,PK TV
+http://208.86.19.13:81/903.stream/index.m3u8
 #EXTINF:-1,sony-maxhd
 http://103.55.144.46:80/hls/sony-maxhd.m3u8
 #EXTINF:-1,zeecinemahd
@@ -231,10 +234,12 @@ http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
-
+#EXTINF:-1,MM TV
+http://208.86.19.13:81/511.stream/index.m3u8
 #EXTINF:-1,THE CHANNEL TV
 http://208.86.19.13:81/518.stream/index.m3u8
-
+#EXTINF:-1,মিম টিভি
+http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tE9MMnO"group-title="SUMON 4K",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PFca37j"group-title="SUMON 4K", Fashion TV
