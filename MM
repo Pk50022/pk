@@ -1,0 +1,20 @@
+#EXTINF:-1,Tring Action HD
+http://87.238.209.26:7000/play/a00k
+#EXTINF:-1,RTL Television
+http://87.238.209.26:7000/play/a014
+#EXTINF:-1,ntv
+http://87.238.209.26:7000/play/a019
+#EXTINF:-1,DMAX
+http://87.238.209.26:7000/play/a028
+#EXTINF:-1,A2
+http://87.238.209.26:7000/play/a01v
+#EXTINF:-1,A HABER
+http://87.238.209.26:7000/play/a029
+#EXTINF:-1,Tring Tring
+http://87.238.209.26:7000/play/a00b
+#EXTINF:-1,ProSieben
+http://87.238.209.26:7000/play/a024
+#EXTINF:-1,TLC
+http://87.238.209.26:7000/play/a026
+#EXTINF:-1,Tring Comedy
+http://87.238.209.26:7000/play/a00m
