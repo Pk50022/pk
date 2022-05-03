@@ -646,3 +646,93 @@ http://103.132.16.98:8080/starvijayhd/mpegts
 #EXTINF:-1,star movies select hd
 
 http://103.132.16.98:8080/starmoviesselecthd/mpegts
+#EXTINF:-1,&flix HD-Rs19
+http://42.201.253.14:4090/play/a00y/index.m3u8
+#EXTINF:-1,A SportsHD
+http://42.201.253.14:4090/play/a080/index.m3u8
+#EXTINF:-1,ARYDigitalAsia HD
+http://42.201.253.14:4090/play/a054/index.m3u8
+#EXTINF:-1,ARYMusik
+http://42.201.253.14:4090/play/a057/index.m3u8
+#EXTINF:-1,ARYNewsAsia
+http://42.201.253.14:4090/play/a058/index.m3u8
+#EXTINF:-1,ARYQTV
+http://42.201.253.14:4090/play/a051/index.m3u8
+#EXTINF:-1,ARYZindagi
+http://42.201.253.14:4090/play/a04y/index.m3u8
+#EXTINF:-1,Alliance Media
+http://42.201.253.14:4090/play/a05a/index.m3u8
+#EXTINF:-1,Alliance Media
+http://42.201.253.14:4090/play/a059/index.m3u8
+#EXTINF:-1,Asianet HD-Rs19
+http://42.201.253.14:4090/play/a03f/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://42.201.253.14:4090/play/a00x/index.m3u8
+#EXTINF:-1,D Tamil -Rs4
+http://42.201.253.14:4090/play/a04h/index.m3u8
+#EXTINF:-1,DD UP
+http://42.201.253.14:4090/play/a041/index.m3u8
+#EXTINF:-1,EuroSports HD-Rs 6
+http://42.201.253.14:4090/play/a07z/index.m3u8
+#EXTINF:-1,FOX Life HD-Rs1
+http://42.201.253.14:4090/play/a04s/index.m3u8
+#EXTINF:-1,Flowers- Rs10
+http://42.201.253.14:4090/play/a04i/index.m3u8
+#EXTINF:-1,JAYA MAX-Rs2.25
+http://42.201.253.14:4090/play/a04g/index.m3u8
+#EXTINF:-1,JAYA PLUS- 50p
+http://42.201.253.14:4090/play/a04n/index.m3u8
+#EXTINF:-1,PTV SPORTS
+http://42.201.253.14:4090/play/a04w/index.m3u8
+#EXTINF:-1,SET HD
+http://42.201.253.14:4090/play/a00z/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://42.201.253.14:4090/play/a04j/index.m3u8
+#EXTINF:-1,STAR BHARAT HD-Rs19
+http://42.201.253.14:4090/play/a02v/index.m3u8
+#EXTINF:-1,SUN MUSIC- Rs 6
+http://42.201.253.14:4090/play/a04l/index.m3u8
+#EXTINF:-1,SUN NEWS - Rs 1
+http://42.201.253.14:4090/play/a04m/index.m3u8
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://42.201.253.14:4090/play/a031/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://42.201.253.14:4090/play/a00v/index.m3u8
+#EXTINF:-1,Star Sports S 1 HD-Rs19
+http://42.201.253.14:4090/play/a038/index.m3u8
+#EXTINF:-1,VIJAY HD- Rs 19
+http://42.201.253.14:4090/play/a037/index.m3u8
+#EXTINF:-1,Willow Cricket HD
+http://42.201.253.14:4090/play/2/index.m3u8
+#EXTINF:-1,ZEE BAN CIN-Rs2
+http://42.201.253.14:4090/play/a01o/index.m3u8
+#EXTINF:-1,ZEE BANGLA HD-Rs19
+http://42.201.253.14:4090/play/a032/index.m3u8
+#EXTINF:-1,ZEE Bioskope-10p
+http://42.201.253.14:4090/play/a036/index.m3u8
+#EXTINF:-1,ZEE CINEMALU HD-Rs 16
+http://42.201.253.14:4090/play/a04q/index.m3u8
+#EXTINF:-1,ZEE KERALAM HD-Rs 8
+http://42.201.253.14:4090/play/a04r/index.m3u8
+#EXTINF:-1,ZEE MARATHI HD-Rs19
+http://42.201.253.14:4090/play/a033/index.m3u8
+#EXTINF:-1,ZEE TALKIE HD-Rs19
+http://42.201.253.14:4090/play/a02z/index.m3u8
+#EXTINF:-1,ZEE TAMIL HD - Rs 19
+http://42.201.253.14:4090/play/a03h/index.m3u8
+#EXTINF:-1,ZEE TELUGU HD-Rs 19
+http://42.201.253.14:4090/play/a04p/index.m3u8
+#EXTINF:-1,ZEE TV HD
+http://42.201.253.14:4090/play/a00w/index.m3u8
+#EXTINF:-1,ZEE TV HD (emm)
+http://42.201.253.14:4090/play/a09m/index.m3u8
+#EXTINF:-1,and picture hd
+http://42.201.253.14:4090/play/a091/index.m3u8
+#EXTINF:-1,and prive hd
+http://42.201.253.14:4090/play/a092/index.m3u8
+#EXTINF:-1,animal planet
+http://42.201.253.14:4090/play/a08y/index.m3u8
+#EXTINF:-1,colors CINEPLEX-Rs3
+http://42.201.253.14:4090/play/a03u/index.m3u8
+#EXTINF:-1,colors INFIN HD-Rs9
+http://42.201.253.14:4090/play/a03d/index.m3u8
