@@ -648,3 +648,13 @@ http://103.132.16.98:8080/starvijayhd/mpegts
 http://103.132.16.98:8080/starmoviesselecthd/mpegts
 #EXTINF:-1,CN HD
 http://ranapk01.in1.bitmana.io:80/live.php?c=CN_HD_Telugu&q=1200&e=.m3u8
+#EXTINF:-1,Amaar_Cinema
+http://ranapk01.in1.bitmana.io:80/live.php?c=Amaar_Cinema&q=1200&e=.m3u8
+#EXTINF:-1,Aakaash_bangla
+http://ranapk01.in1.bitmana.io:80/live.php?c=Aakaash_bangla&q=1200&e=.m3u8
+#EXTINF:-1,DD_Bangla
+http://ranapk01.in1.bitmana.io:80/live.php?c=DD_Bangla&q=1200&e=.m3u8
+#EXTINF:-1,MK_Music
+http://ranapk01.in1.bitmana.io:80/live.php?c=MK_Music&q=1200&e=.m3u8
+#EXTINF:-1,Tunes_6
+http://ranapk01.in1.bitmana.io:80/live.php?c=Tunes_6&q=1200&e=.m3u8
