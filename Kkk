@@ -1,3 +1,20 @@
+
+#EXTINF:-1,sunbangla
+http://103.167.190.250/hls/sunbangla.m3u8
+#EXTINF:-1,Sony_Aath
+http://103.167.190.250/hls/Sony_Aath.m3u8
+#EXTINF:-1,starjalsha
+http://103.167.190.250/hls/starjalsha.m3u8
+#EXTINF:-1,zeebanglahd
+http://103.167.190.250/hls/zeebanglahd.m3u8
+#EXTINF:-1,colorsbangla
+http://103.167.190.250/hls/colorsbangla.m3u8
+#EXTINF:-1,jalshamovies
+http://103.167.190.250/hls/jalshamovies.m3u8
+#EXTINF:-1,colore-bangla-cinemabangla-cinema
+http://103.167.190.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,ban
+http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1,T SPORT
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1,STARBHARAT HD
