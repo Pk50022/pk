@@ -607,6 +607,31 @@ http://103.55.144.46/hls/colore-tv-hd.m3u8
 
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
+
+
+
+
+
+
+
+
+.......  ENGLISH MOVIE.....  
+
+#EXTINF:-1 group-title="English Movie",AXN
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 group-title="English Movie",AXN
+#http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
+
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
+
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
+
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/XsHKNAJ.png",Star World HD
 
 http://103.55.144.46/hls/star-worldhd.m3u8
@@ -640,6 +665,15 @@ http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 #EXTINF:-1 group-title="English",persiana2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Favourites" tvg-logo="https://i.imgur.com/RjiBQP2.png",Zee Action
 
@@ -737,21 +771,8 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34477?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1 ,#http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-
-http://208.86.19.13:81/717.stream/index.m3u8
-
-#EXTINF:-1 ,#http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
-
-http://210.210.155.35:80/dr9445/h/h141/02.m3u8
-
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
-
-http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
-
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1 ,
+#http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 2
 
