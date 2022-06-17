@@ -617,9 +617,9 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
 .......  ENGLISH MOVIE.....  
 
-#EXTINF:-1 group-title="English Movie",AXN
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/AXN_Logo.PNG/798px-AXN_Logo.PNG",AXN
 http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 group-title="English Movie",AXN
+#EXTINF:-1 group-title="English Movie",STAR GOLD HD
 #http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
 
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
