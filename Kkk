@@ -1762,29 +1762,6 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8?che
 
 http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,NDTV
-
-https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,NDTV 24X7 (480p)
-
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,NDTV India
-
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,NDTV India (480p)
-
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,NDTV Profit
-
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,NDTV Profit (480p)
-
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,NEWS 18 ASSAM
 
@@ -1802,58 +1779,12 @@ http://14.199.164.20:4001/play/a0n1/index.m3u8?checkedby:iptvcat.com
 
 https://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Assam
-
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Assam (360p) [Not 24/7]
-
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Bengali
-
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Bengali (360p) [Not 24/7]
-
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Chhattisgarh
-
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Gujarati
-
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Hindi
-
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Jharkhand
-
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18
-
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Malayalam
-
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,News 18 Rajasthan
 
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Tamil
-
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Urdu
-
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?checkedby:iptvcat.com
-
+#
 #EXTINF:-1 ,One TV (720p)
 
 http://137.59.86.218:1935/live/onetv/playlist.m3u8?checkedby:iptvcat.com
@@ -1862,17 +1793,6 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8?checkedby:iptvcat.com
 
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Pratidin Time
-
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Prime Canada TV
-
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Real News Kerala (1080p) [Not 24/7]
-
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,SADA TV
 
@@ -3171,52 +3091,62 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 
-#EXTINF:-1 ,#http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-
+#EXTINF:-1, ZEE BANGLA CINEMA
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1, ZEE BANGLA CINEMA
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 
-#EXTINF:-1 ,#http://103.136.200.246:8082/colorsbangla/index.m3u8
-
+#EXTINF:-1, COLORS BANGLA CINEMA
+http://103.136.200.246:8082/colorsbangla/index.m3u8
+#EXTINF:-1,COLORS BANGLA CINEMA
 http://103.55.144.46/hls/colorsbangla.m3u8
 
-#EXTINF:-1 ,#http://103.167.190.250/hls/colore-bangla-cinema.m3u8
-
+#EXTINF:-1 ,colors bangla cinema
+http://103.167.190.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1, colors bangla cinema
 http://208.86.19.13:81/907.stream/index.m3u8
 
-#EXTINF:-1 ,#http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-
+#EXTINF:-1 ,8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1,8XM
 http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png",ICC_9XM
 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 ,#http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
-
+#EXTINF:-1 ,MASTI
+http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
+#EXTINF:-1, MASTI
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,#https://ilove.livebox.co.in/wowinhls/live.m3u8
-
+#EXTINF:-1 ,WOW
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1,WOW
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524",Color Cineplex HD
 
 http://103.55.144.46/hls/colorscineplex.m3u8
 
-#EXTINF:-1 ,#http://103.167.190.250/hls/utvaction.m3u8
-
+#EXTINF:-1 ,UTV ACTION
+http://103.167.190.250/hls/utvaction.m3u8
+#EXTINF:-1,UTV ACTION
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,#http://103.55.144.46/hls/andpictures.m3u8
-
+#EXTINF:-1 ,AND PICTURE
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1,AND PICTURE
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34477?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1 ,#http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 ,STARGOLD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STARGOLD
 http://208.86.19.13:81/717.stream/index.m3u8
 
-#EXTINF:-1 ,#http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
-
+#EXTINF:-1 ,AXN
+http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
+#EXTINF:-1,AXN
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
@@ -4090,9 +4020,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 http://14.199.164.20:4001/play/a0j5/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,FASTWAY NEWS (720p)
-
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Fakt Marathi (576p) [Not 24/7]
 
@@ -4196,85 +4123,20 @@ n18assamne_1@526575/index_5_av-p.m3u8?checkedby:iptvcat.com
 
 http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Naaptol (576p) [Not 24/7]
-
-http://14.199.164.20:4001/play/a0n1/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 ,Namdhari
 
 https://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Assam
 
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Assam (360p) [Not 24/7]
 
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Bengali
 
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,News 18 Bengali (360p) [Not 24/7]
-
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10&checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Chhattisgarh
-
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Gujarati
-
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Hindi
-
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Jharkhand
-
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18
-
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Malayalam
-
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Rajasthan
-
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Tamil
-
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,News 18 Urdu
-
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,One TV (720p)
-
-http://137.59.86.218:1935/live/onetv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,PUNJAB TV
-
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Pratidin Time
-
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Prime Canada TV
 
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Real News Kerala (1080p) [Not 24/7]
-
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,SADA TV
 
@@ -4300,13 +4162,6 @@ http://14.199.164.20:4001/play/a0ok/index.m3u8?checkedby:iptvcat.com
 
 http://14.199.164.20:4001/play/a0nh/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Shubhsandesh
-
-http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Shubhsandesh
-
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Sony SAB TV India
 
@@ -4356,8 +4211,4 @@ http://14.199.164.20:4001/play/a0n3/index.m3u8?checkedby:iptvcat.com
 
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Zee News Malayalam
 
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8?checkedby:iptvcat.com
-
- 
