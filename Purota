@@ -71,7 +71,6 @@ http://89.187.162.109/ETVABHIRUCHI/mono.m3u8
 http://89.187.162.109/CINEMATV/mono.m3u8
 #EXTINF:-1,COLORSHD
 http://89.187.162.109/COLORSHD/mono.m3u8
-
 #EXTINF:-1,COLORS KANNADA HD
 http://89.187.162.109/COLORSKANNADAHD/mono.m3u8
 #EXTINF:-1,DANGAL
@@ -1248,26 +1247,6 @@ http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1 ,UNIVERSAL PREMIERE O HD
 
 http://190.83.119.67:8000/play/a0uj/index.m3u8
-
-#EXTINF:-1 ,HBO
-
-http://181.189.254.33:8083/play/a04d/index.m3u8
-
-#EXTINF:-1 ,HBO Family
-
-http://181.189.254.33:8083/play/a04g/index.m3u8
-
-#EXTINF:-1 ,HBO Plus
-
-http://181.189.254.33:8083/play/a04f/index.m3u8
-
-#EXTINF:-1 ,HBO XTREME
-
-http://181.189.254.33:8083/play/a01k/index.m3u8
-
-#EXTINF:-1 ,HBO2
-
-http://181.189.254.33:8083/play/a04e/index.m3u8
 
 #EXTINF:-1 ,Golden
 
