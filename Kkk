@@ -2184,51 +2184,51 @@ http://103.55.144.46:80/hls/mn+.m3u8
 
 http://103.55.144.46:80/hls/mnx-hd.m3u8
 
-#EXTINF:-1 ,Sports_1
+#EXTINF:-1 ,group-title="SPORTS"Sports_1
 
 http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_2
+#EXTINF:-1 ,group-title="SPORTS"sports_2
 
 http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_3
+#EXTINF:-1 ,group-title="SPORTS"sports_3
 
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_4
+#EXTINF:-1 ,group-title="SPORTS"sports_4
 
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_5
+#EXTINF:-1 ,group-title="SPORTS"sports_5
 
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_6
+#EXTINF:-1 ,group-title="SPORTS"sports_6
 
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,sports_7
+#EXTINF:-1 ,group-title="SPORTS"sports_7
 
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
-#EXTINF:-1 ,sports_8
+#EXTINF:-1 ,group-title="SPORTS"sports_8
 
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1 ,sports_9
+#EXTINF:-1 ,group-title="SPORTS"sports_9
 
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
-#EXTINF:-1 ,sports_10
+#EXTINF:-1 ,group-title="SPORTS"sports_10
 
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 
-#EXTINF:-1 ,sports_11
+#EXTINF:-1 ,group-title="SPORTS"sports_11
 
 http://182.50.65.213:8888/udp/239.239.0.34:3001
 
-#EXTINF:-1 ,sports_12
+#EXTINF:-1 ,group-title="SPORTS"sports_12
 
 http://182.50.65.213:8888/udp/239.239.0.35:3001
 
