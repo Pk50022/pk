@@ -636,8 +636,10 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/AgjF1pw.png",Cinemax
-
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
+
+#EXTINF:-1 group-title="English",persiana2
+http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 
 #EXTINF:-1 group-title="Favourites" tvg-logo="https://i.imgur.com/RjiBQP2.png",Zee Action
 
