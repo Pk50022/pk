@@ -1,6 +1,4 @@
 
-#EXTINF:-1,Science English
-http://103.55.144.46/hls/dis-science.m3u80ZLXERtD10RAkAJCFEIVxpOQUNcWAcaDwIBDQMJCQECBw4VFEIPXRECQAkKUQhSGk5BUk1BB0pbUltnVFVPUFJWGgNYRwpVHxoNVmcBVA5ZDAcVDxdSGhkRXktAEgNXRF9UFRRQD01BWRZdGl8TWgxQQRsXVg1NW0dFQRIKG3t1ERQbU0oSXF1LC1dWRwtBTBFBGxdcEWdHVkRMQlVYVFRBGgMUAkQVEVUDQGcGXg1WBwBDXFoMSxcJFQkSHBtUXl1RTVlAOUlaXEACGlYEVw1AHg==
 #EXTINF:-1,T SPORT
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
@@ -393,8 +391,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="ext" group-title="FASHON TV.18+",FTV PG-16
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH",AE HD
-http://50.7.34.155:2201/BR/AE_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
 #EXTINF:-1,MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTC
@@ -411,72 +408,6 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/i
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1,xxx
 https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
-
-#EXTINF:-1,discovery kids
-http://42.201.253.14:4090/play/a05e/index.m3u8
-#EXTINF:-1,history hd
-http://42.201.253.14:4090/play/a08z/index.m3u8
-#EXTINF:-1,nick hd
-http://42.201.253.14:4090/play/a099/index.m3u8
-#EXTINF:-1,pix hd
-http://42.201.253.14:4090/play/a090/index.m3u8
-#EXTINF:-1,skycircket
-http://42.201.253.14:4090/play/a05b/index.m3u8
-#EXTINF:-1,sonyten2 hd
-http://42.201.253.14:4090/play/a09a/index.m3u8
-#EXTINF:-1,star gold hd
-http://42.201.253.14:4090/play/a098/index.m3u8
-#EXTINF:-1,star gold select
-http://42.201.253.14:4090/play/a095/index.m3u8
-#EXTINF:-1,star sports select 2 hd
-http://42.201.253.14:4090/play/a097/index.m3u8
-#EXTINF:-1,zee cinema hd
-http://42.201.253.14:4090/play/a093/index.m3u8
-#EXTINF:-1,KTV HD TAMIL
-http://103.132.16.98:8080/ktvhd/mpegts 
-#EXTINF:-1,Star sports 1
-http://103.132.16.98:8080/starsports1hd/mpegts
-#EXTINF:-1,Star sports 1
-http://103.132.16.98:8080/starsports2hd/mpegts
-#EXTINF:-1,Star sports select 1
-http://103.132.16.98:8080/starsportsselect1hd/mpegts
-#EXTINF:-1,SUN TV HD TAMIL
-http://103.132.16.98:8080/suntvhd/mpegts 
-#EXTINF:-1,KTV HD TAMIL
- http://103.132.16.98:8080/ktvhd/mpegts 
-#EXTINF:-1,sunmusic HD TAMIL
- http://103.132.16.98:8080/sunmusichd/mpegts 
-#EXTINF:-1,JayaTV HD TAMIL
- http://103.132.16.98:8080/jayatvhd/mpegts 
-#EXTINF:-1,ASIANET MALAYALAM
- http://103.132.16.98:8080/asianethd/mpegts 
-#EXTINF:-1,STAR MAA HD TELUGU
- http://103.132.16.98:8080/starmaahd/mpegts 
-#EXTINF:-1,ETVHD IN TELUGU
- http://103.132.16.98:8080/etvhd/mpegts.
-#EXTINF:-1,Gemini TV TELUGU
-http://103.132.16.98:8080/geminihd/mpegts
-#EXTINF:-1,Surya TV Malayalam
-http://103.132.16.98:8080/suryatvhd/mpegts
-#EXTINF:-1,Udaya tv
-http://103.132.16.98:8080/udayatvhd/mpegts
-#EXTINF:-1,Star plus hd
-http://103.132.16.98:8080/starplushd/mpegts
-#EXTINF:-1,Star gold hd
-http://103.132.16.98:8080/stargoldhd/mpegts
-#EXTINF:-1,Zee TV 
-http://103.132.16.98:8080/zeetvhd/mpegts
-#EXTINF:-1,Colors hd
-http://103.132.16.98:8080/colorshd/mpegts
-#EXTINF:-1,Star movies hd
-http://103.132.16.98:8080/starmovieshd/mpegts
-#EXTINF:-1,Star world
-http://103.132.16.98:8080/starworldhd/mpegts
-#EXTINF:-1,Star Vijay hd Tamil
-http://103.132.16.98:8080/starvijayhd/mpegts
-#EXTINF:-1,star movies select hd
-#EXTINF:-1 group-title="Sports",Ten Sports
-http://103.55.144.46/hls/ten.m3u8
 
 #EXTINF:-1 group-title="বাংলা" tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
@@ -661,11 +592,13 @@ http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 ,#http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
+#EXTINF:-1 ,MASTI MUSIC
+http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,#https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 ,WOW IN
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
@@ -673,15 +606,17 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
 http://103.55.144.46/hls/colorscineplex.m3u8
 
-#EXTINF:-1 ,#http://103.167.190.250/hls/utvaction.m3u8
+#EXTINF:-1 ,UTV ACTION
+http://103.167.190.250/hls/utvaction.m3u8
 
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,#http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 ,XXX
+http://103.55.144.46/hls/andpictures.m3u8
 
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34477?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,STARGOLD
 #http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png",Live Sports 2
@@ -1432,41 +1367,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:i
 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,ABP Asmita
-
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,ABP Asmita
-
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,ABP Asmita
-
-https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,ABP News
-
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,印度APB
-
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,APB
-
-https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Anjan (720p)
-
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Ashrafi Channel
-
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Assam Talks
-
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Ayush TV
 
@@ -1484,21 +1384,6 @@ http://14.199.164.20:4001/play/a0rj/index.m3u8?checkedby:iptvcat.com
 
 http://14.199.164.20:4001/play/a0su/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,CNBC Awaaz
-
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,CNBC TV18
-
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Channel Win (360p)
-
-https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Channel Y
-
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Channel-S Live TV
 
@@ -1653,40 +1538,18 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8?che
 http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 ,NEWS 18 ASSAM
-
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,NVision
 
 http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Naaptol (576p) [Not 24/7]
-
-http://14.199.164.20:4001/play/a0n1/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Namdhari
 
 https://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1 ,News 18 Rajasthan
-
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?checkedby:iptvcat.com
-
-#
-#EXTINF:-1 ,One TV (720p)
-
-http://137.59.86.218:1935/live/onetv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,PUNJAB TV
-
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:-1 ,SADA TV
-
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8?checkedby:iptvcat.com
+.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Safari TV (480p) [Not 24/7]
 
@@ -1708,13 +1571,6 @@ http://14.199.164.20:4001/play/a0ok/index.m3u8?checkedby:iptvcat.com
 
 http://14.199.164.20:4001/play/a0nh/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Shubhsandesh
-
-http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 ,Shubhsandesh
-
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,Sony SAB TV India
 
@@ -1764,32 +1620,13 @@ http://14.199.164.20:4001/play/a0n3/index.m3u8?checkedby:iptvcat.com
 
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 ,Zee News Malayalam
 
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8?checkedby:iptvcat.com
-
-  
  
  
  
  
 
-Menu
 
-ARABIC CHANNELS M3U PLAYLISTArabic Channels 10000% Working Free IPTV M3u Playlist 27-05-2022 / Arabic M3u Playlist 27-05-2022 / Arabic Live Channels M3u PlaylistDAILY IPTV M3U PLAYLISTSports Channels 10000% Working Latest M3u Playlist 27-05-2022 / Sports Channels M3U8 Working Links 2022 / Sports M3u Playlist 27-05-2022ARABIC CHANNELS M3U PLAYLISTArabic Channels 10000% Working Free IPTV M3u Playlist 20-05-2022 / Arabic M3u Playlist 22-05-2022 / Arabic Live Channels M3u PlaylistDAILY IPTV M3U PLAYLISTSports Channels 10000% Working Latest M3u Playlist 20-05-2022 / Sports Channels M3U8 Working Links 2022 / Sports M3u Playlist 20-05-2022ARABIC CHANNELS M3U PLAYLISTArabic Channels 10000% Working Free IPTV M3u Playlist 22-04-2022 / Arabic M3u Playlist 22-04-2022 / Arabic Live Channels M3u PlaylistAMERICA M3U PLAYLISTAmerican(USA) Channels 10000% Working Free IPTV M3u Playlist 22-04-2022 / American M3u Playlist 22-04-2022DAILY IPTV LINKSIndian Channels M3u8 Working Links / Indian Channels M3u Playlist 9-6-20222
-My Tricks Zone
-
-
- 
-
-Menu
-
- 
-Home Daily IPTV Links  Indian 10000% Working M3u Playlist  indian channel m3u8 links  indian channels m3u playlist  indian m3u Links Indian Channels M3u8 Working Links / Indian Channels M3u Playlist 9-6-20222
-Indian Channels M3u8 Working Links / Indian Channels M3u Playlist 9-6-20222
- Gulraiz Afzal  2:48:00 PM  Daily IPTV Links, Indian 10000% Working M3u Playlist, indian channel m3u8 links, indian channels m3u playlist, indian m3u Links,
-
- 
 
  
 
@@ -1797,7 +1634,6 @@ Indian Channels M3u8 Working Links / Indian Channels M3u Playlist 9-6-20222
 
  
 
-#EXTM3U
 
 #EXTINF:-1 ,STAR JALSHA
 
@@ -2061,169 +1897,22 @@ http://182.50.65.213:8888/udp/239.239.0.34:3001
 
 http://182.50.65.213:8888/udp/239.239.0.35:3001
 
-#EXTINF:-1 ,beIN Sports 1 English HD
 
-http://195.154.242.24:8001/play/a00d/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 English SD
 
-http://195.154.242.24:8001/play/a00s/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 FHD
 
-http://195.154.242.24:8001/play/a00x/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 French HD
 
-http://195.154.242.24:8001/play/a00f/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 French SD
 
-http://195.154.242.24:8001/play/a00u/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 HD
 
-http://195.154.242.24:8001/play/a001/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 Premium SD
 
-http://195.154.242.24:8001/play/a00p/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 1 SD
 
-http://195.154.242.24:8001/play/a00h/index.m3u8
 
-#EXTINF:-1 ,beIN Sports 2 4K
-
-http://195.154.242.24:8001/play/a017/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 English HD
-
-http://195.154.242.24:8001/play/a00e/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 English SD
-
-http://195.154.242.24:8001/play/a00t/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 FHD
-
-http://195.154.242.24:8001/play/a00w/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 French HD
-
-http://195.154.242.24:8001/play/a00g/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 Premium FHD
-
-http://195.154.242.24:8001/play/a014/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 Premium HD
-
-http://195.154.242.24:8001/play/a00b/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 Premium SD
-
-http://195.154.242.24:8001/play/a00q/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 2 SD
-
-http://195.154.242.24:8001/play/a00j/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 3 4K
-
-http://195.154.242.24:8001/play/a018/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 3 FHD
-
-http://195.154.242.24:8001/play/a011/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 3 HD
-
-http://195.154.242.24:8001/play/a005/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 3 Premium FHD
-
-http://195.154.242.24:8001/play/a015/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 3 SD
-
-http://195.154.242.24:8001/play/a00i/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 4 FHD
-
-http://195.154.242.24:8001/play/a00z/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 4 HD
-
-http://195.154.242.24:8001/play/a006/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 4 SD
-
-http://195.154.242.24:8001/play/a00m/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 5 4K
-
-http://195.154.242.24:8001/play/a01a/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 5 FHD
-
-http://195.154.242.24:8001/play/a00y/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 5 HD
-
-http://195.154.242.24:8001/play/a007/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 6 FHD
-
-http://195.154.242.24:8001/play/a010/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 6 HD
-
-http://195.154.242.24:8001/play/a008/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 6 SD
-
-http://195.154.242.24:8001/play/a00k/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 7 FHD
-
-http://195.154.242.24:8001/play/a012/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 7 HD
-
-http://195.154.242.24:8001/play/a009/index.m3u8
-
-#EXTINF:-1 ,beIN Sports 7 SD
-
-http://195.154.242.24:8001/play/a00n/index.m3u8
-
-#EXTINF:-1 ,beIN Sports English 1 4K
-
-http://195.154.242.24:8001/play/a01g/index.m3u8
-
-#EXTINF:-1 ,beIN Sports English 2 4K
-
-http://195.154.242.24:8001/play/a01h/index.m3u8
-
-#EXTINF:-1 ,beIN Sports HD
-
-http://195.154.242.24:8001/play/a003/index.m3u8
-
-#EXTINF:-1 ,beIN Sports NBA HD
-
-http://195.154.242.24:8001/play/a00o/index.m3u8
-
-#EXTINF:-1 ,beIN Sports News HD
-
-http://195.154.242.24:8001/play/a002/index.m3u8
-
-#EXTINF:-1 ,beIN Sports Premium 1 4K
-
-http://195.154.242.24:8001/play/a01d/index.m3u8
-
-#EXTINF:-1 ,beIN Sports Premium 2 4K
-
-http://195.154.242.24:8001/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/MD0cEBL.png",Star Sports 2 HD
 
