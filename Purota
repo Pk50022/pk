@@ -1,15 +1,10 @@
 
 #EXTINF:-1,T SPORT
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-
-#EXTINF:-1,STARBHARAT UK
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-
 #EXTINF:-1,ZEETV UK
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1,ZEETV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-
 #EXTINF:-1,STARPLUSUK
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STARPLUSUK
@@ -51,58 +46,13 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTVBEATSHD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,SUN BANGLA
-http://103.55.144.46:80/hls/sunbangla.m3u8
-#EXTINF:-1,zee-bangla-cinema
-http://208.86.19.13:81/708.stream/index.m3u8
-#EXTINF:-1,colore-bangla-cinema
-http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1,jalshamovies
-http://103.55.144.46:80/hls/jalshamovies.m3u8
-#EXTINF:-1,colorsbangla
-http://103.55.144.46:80/hls/colorsbangla.m3u8
-#EXTINF:-1,zeebanglahd
-http://103.55.144.46:80/hls/zeebanglahd.m3u8
-#EXTINF:-1,starjalsha
-http://103.55.144.46:80/hls/starjalsha.m3u8
-#EXTINF:-1,Sony_Aath
-http://103.55.144.46:80/hls/Sony_Aath.m3u8
-#EXTINF:-1,nick
-http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1,cn
-http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1,pogo
-http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1,KCVTV
-http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
-#EXTINF:-1,DHIN
-http://103.55.144.46/hls/dhin.m3u8
-#EXTINF:-1,"group-title="ANIMAL"NATIONAL GEOGRAPHIC
-http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1,"group-title="ANIMAL",discovery
-http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1,"group-title="ANIMAL",animalplanent
-http://103.55.144.46/hls/animalplanent.m3u8
-#EXTINF:-1,"group-title="ANIMAL"bbcearth
-http://103.55.144.46/hls/bbcearth.m3u8
-#EXTINF:-1,"group-title="ANIMAL",travelxp
-http://103.55.144.46/hls/travelxp.m3u8
-#EXTINF:-1,MTVINDIA
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1,bindass
-http://103.55.144.46:80/hls/bindass.m3u8
-#EXTINF:-1,colore-tv-hd
-http://103.55.144.46:80/hls/colore-tv-hd.m3u8
-
-#EXTINF:-1,zeetv
-http://103.55.144.46:80/hls/zeetv.m3u8
+p://103.55.144.46:80/hls/zeetv.m3u8
 #EXTINF:-1,andpictures
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1,colorscineplex
 http://103.55.144.46:80/hls/colorscineplex.m3u8
-#EXTINF:-1,sonymax
-http://103.55.144.46:80/hls/sonymax.m3u8
+#EXTINF:-1,colore-tv-hd
+http://103.55.144.46:80/hls/colore-tv-hd.m3u8
 #EXTINF:-1,COLORS AIRTEL
 http://208.86.19.13:81/605.stream/index.m3u8
 #EXTINF:-1,PK TV
@@ -123,18 +73,147 @@ http://103.55.144.46:80/hls/starplus.m3u8
 http://103.55.144.46:80/hls/utvaction.m3u8
 #EXTINF:-1,utv
 http://103.55.144.46:80/hls/utv.m3u8
-#EXTINF:-1,travelxp
-http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+
+
+
+
+
+
+
+................ BANGLA MOVIE....  
+
+#EXTINF:-1,SUN BANGLA
+http://103.55.144.46:80/hls/sunbangla.m3u8
+#EXTINF:-1,zee-bangla-cinema
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1,colore-bangla-cinema
+http://103.55.144.46:80/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,jalshamovies
+http://103.55.144.46:80/hls/jalshamovies.m3u8
+#EXTINF:-1,COLORS BANGLA HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1,colorsbangla
+http://103.55.144.46:80/hls/colorsbangla.m3u8
+#EXTINF:-1,zeebanglahd
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
+#EXTINF:-1,starjalsha
+http://103.55.144.46:80/hls/starjalsha.m3u8
+#EXTINF:-1,Sony_Aath
+http://103.55.144.46:80/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png"group-title="India Bangla TV", Sony ATT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Amar Bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Khusboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:-1 ,zee bangla cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 ,
+#http://103.136.200.246:8082/colorsbangla/index.m3u8
+
+http://103.55.144.46/hls/colorsbangla.m3u8
+
+#EXTINF:-1 ,colore-bangla-cinema
+#http://103.167.190.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,colore-bangla-cinema
+http://208.86.19.13:81/907.stream/index.m3u8
+
+
+
+
+
+................  CATOON ..... 
+
+#EXTINF:-1,nick
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1,cn
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1,pogo
+http://103.55.144.46/hls/pogo.m3u8
+
+
+
+
+
+৷৷৷৷৷৷৷৷৷৷৷৷৷৷  ইংলিশ মুভি৷৷৷৷৷৷৷৷৷  
+#EXTINF:-1,PERSIANA2
+http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+
+
+
+
+
+
+.................  HINDI MOVIE....  
+#EXTINF:-1,KCVTV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1,DHIN
+http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:-1,"group-title="ANIMAL"NATIONAL GEOGRAPHIC
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1,"group-title="ANIMAL",discovery
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1,"group-title="ANIMAL",animalplanent
+http://103.55.144.46/hls/animalplanent.m3u8
+#EXTINF:-1,"group-title="ANIMAL"bbcearth
+http://103.55.144.46/hls/bbcearth.m3u8
+#EXTINF:-1,"group-title="ANIMAL",travelxp
+http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1, TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1,travelxp
+http://103.55.144.46:80/hls/travelxp.m3u8
+#EXTINF:-1,outside-tv
+https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
+#EXTINF:-1,food
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+
+
+
+৷৷৷৷৷৷৷৷৷৷ ......... MUSIC CHANNEL
+
+
+#EXTINF:-1,MTVINDIA
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+#EXTINF:-1,bindass
+http://103.55.144.46:80/hls/bindass.m3u8
 #EXTINF:-1,JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,9XJHAKAAS
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1,MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1,PERSIANA2
-http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+#EXTINF:-1,MTALI
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,INDIA TV
+https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8
+#EXTINF:-1,MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTC
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
+#EXTINF:-1,DD RETRO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,MHONE MUSIC
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1,fdgffg
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1,xxx
+https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
+
+
+
+
+
+.............. বাংলাদেশি টিভি৷৷৷৷৷৷৷৷৷ 
+
 #EXTINF:-1,দেশি টিভি
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,MQC TV
@@ -219,17 +298,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="TTV-Bangladeshi",Gaan Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1, TRAVEL XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,MTALI
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,INDIA TV
-https://qyou-samsungindia.amagi.tv/v1/master/1748002a7c5f50a5e76423ca32f5fb44fdb69c58/QYouSamsungIndia/master.m3u8
 
-
-
-#EXTINF:-1,COLORS BANGLA HD
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1,CNN BANGLA
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1,DESH TV
@@ -269,7 +338,6 @@ https://m3u-editor.com/serve/bd6a00d0-5ef7-11ec-8ab3-a1b25143252d/451941044
 http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla TV", NTV Bangla
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Dmigu3I" group-title="Bangla TV",Channel 9
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8TBr9jT" group-title="Bangla TV", ETV
@@ -327,12 +395,24 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png"group-title="India Bangla TV", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png"group-title="India Bangla TV", Sony ATT
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Amar Bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Khusboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="India Bangla TV", HUM HD (Pakistan)
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="India Bangla TV", SONY Entertainment HD
@@ -343,7 +423,6 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="India Bangla TV", Colour HD
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV", B4U Music
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="MUSiC TV",Music INDIA
@@ -392,22 +471,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
 
-#EXTINF:-1,MTV BEATS HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTC
-https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
-#EXTINF:-1,DD RETRO
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,MHONE MUSIC
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1,outside-tv
-https://outside-tv.samsung.wurl.com:443/manifest/316fba602419717190792b6b47574254.m3u8
-#EXTINF:-1,food
-https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1,fdgffg
-http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1,xxx
-https://a.jsrdn.com:443/broadcast/22693_4rGhgrBU/-0500/hi/c.m3u8
+
 
 #EXTINF:-1 group-title="বাংলা" tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
@@ -568,20 +632,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 
-#EXTINF:-1 ,
-#http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-
-#EXTINF:-1 ,
-#http://103.136.200.246:8082/colorsbangla/index.m3u8
-
-http://103.55.144.46/hls/colorsbangla.m3u8
-
-#EXTINF:-1 ,colore-bangla-cinema
-#http://103.167.190.250/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1,colore-bangla-cinema
-http://208.86.19.13:81/907.stream/index.m3u8
 
 #EXTINF:-1 ,8XM group-title="MUSIC"
 #http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
