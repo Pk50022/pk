@@ -143,7 +143,33 @@ http://103.55.144.46/hls/pogo.m3u8
 ৷৷৷৷৷৷৷৷৷৷৷৷৷৷  ইংলিশ মুভি৷৷৷৷৷৷৷৷৷  
 #EXTINF:-1,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://imgur.com/KRjdRnV.png",Goldmins
 
+http://103.55.144.46:80/hls/dhin.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
+
+http://103.55.144.46:80/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/K8YUMMt.png",Star World HD [HD]
+
+http://103.55.144.46:80/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/uV8cQ94.png",Sony Pix HD
+
+http://103.55.144.46:80/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/BNaXQWX.png",Movies Now HD
+
+http://103.55.144.46:80/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/iA4v1yN.png",MN+ HD
+
+http://103.55.144.46:80/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="Eng Movie" tvg-logo="https://imgur.com/msSkZ5F.png",MNX HD [HD]
+
+http://103.55.144.46:80/hls/mnx-hd.m3u8
 
 
 
@@ -166,8 +192,6 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:-1, TRAVEL XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-
 #EXTINF:-1,travelxp
 http://103.55.144.46:80/hls/travelxp.m3u8
 #EXTINF:-1,outside-tv
